@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ZainAlabdinMansour.github.io/YouTube-Clone/static/css/main.7064deb2.css",
-    "main.js": "/ZainAlabdinMansour.github.io/YouTube-Clone/static/js/main.82f29d7a.js",
-    "index.html": "/ZainAlabdinMansour.github.io/YouTube-Clone/index.html",
-    "main.7064deb2.css.map": "/ZainAlabdinMansour.github.io/YouTube-Clone/static/css/main.7064deb2.css.map",
-    "main.82f29d7a.js.map": "/ZainAlabdinMansour.github.io/YouTube-Clone/static/js/main.82f29d7a.js.map"
+    "main.css": "/zainalabdinmansour/youtube-clone/static/css/main.7064deb2.css",
+    "main.js": "/zainalabdinmansour/youtube-clone/static/js/main.82f29d7a.js",
+    "index.html": "/zainalabdinmansour/youtube-clone/index.html",
+    "main.7064deb2.css.map": "/zainalabdinmansour/youtube-clone/static/css/main.7064deb2.css.map",
+    "main.82f29d7a.js.map": "/zainalabdinmansour/youtube-clone/static/js/main.82f29d7a.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
